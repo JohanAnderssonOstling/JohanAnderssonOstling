@@ -1,5 +1,6 @@
 ### Hi there 👋
-[![Johan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohanAnderssonOstling&count_private=true&show_icons=true")(https://github.com/anuraghazra/github-readme-stats)
+![Johans's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohanAnderssonOstling&count_private=true)
+
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=johanAnderssonOstling"/>
 
