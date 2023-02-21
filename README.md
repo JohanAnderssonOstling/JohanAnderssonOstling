@@ -2,7 +2,8 @@
 ![Johans's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohanAnderssonOstling&count_private=true)
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=johanAnderssonOstling?exclude_repo=eBiblis"/>
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JohanAnderssonOstling)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
